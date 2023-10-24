@@ -12,6 +12,8 @@ public class Testfacebookregistration {
      
      driver.manage().window().maximize();
      
+     //print("hellow");
+     
 	}
 
 }
